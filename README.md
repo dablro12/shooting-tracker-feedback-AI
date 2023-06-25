@@ -13,7 +13,7 @@
 서비스 흐름도
 
 ### 1. function list
-![noname01](https://user-images.githubusercontent.com/78933101/135653625-d14db805-ab5e-4505-a7b0-5d0a3af2ad59.png)
+![noname01](https://github.com/dablro12/shooting-tracker-feedback-AI/assets/54443308/d37191e5-da7c-41aa-80ba-39762b6ca3d3)
 
 |구분|기능|구현|
 |------|---|---|
@@ -24,9 +24,6 @@
 
 ### 2. detailed function
 #### Software
-![2](https://user-images.githubusercontent.com/78933101/135657961-cbbc1775-37d0-42d4-a47c-26850674f580.png)
-S/W 구성도
-
 - shooting posture correlation inference : 주어진 축구 슈팅 이미지를 가지고 예측해주는 모델
 - img2csv : 추출한 이미지 각도 데이터를 csv 데이터로 변환하는 프로그램
 - Analysis : 입력된 각도 및 이미지를 분석하는 모델
