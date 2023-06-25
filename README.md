@@ -1,6 +1,5 @@
-# 2023-Biomedical AI Project
-# shooting-tracker-feedback-AI
-# 축구 슈팅 자세 개선을 위한 AI Pose Tracking correlation Feed back AI 👵👴
+# 2023-Biomedical AI Project - shooting-tracker-feedback-AI ⚽
+# 축구 슈팅 자세 개선을 위한 AI Pose Tracking correlation Feed back AI
 # AI Pose Tracking Correlation Feedback AI for Improving Soccer Shot Formation with Mediapipe Pose
 #### Project nickname : 슈팅왕통키
 #### Project execution period : 2023.03~2023.06
