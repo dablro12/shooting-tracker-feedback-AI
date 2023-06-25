@@ -1,6 +1,5 @@
-# shooting-tracker-feedback-AI
-
 # 2023-Biomedical AI Project
+# shooting-tracker-feedback-AI
 # 축구 슈팅 자세 개선을 위한 AI Pose Tracking correlation Feed back AI 👵👴
 # AI Pose Tracking Correlation Feedback AI for Improving Soccer Shot Formation with Mediapipe Pose
 #### Project nickname : 슈팅왕통키
@@ -10,8 +9,8 @@
 ## Description
 축구 슈팅 중 공을 발등에 맞추는 것은 슈팅을 잘하기 위해선 중요하다. 발등에 공을 잘 맞추게 되면 원하는 방향으로 강하고 정확한 슈팅을 할 수 있다. 그러나 혼자서 슈팅을 연습할 때는 공을 발등에 맞추기가 어렵다. 더불어, 사람의 눈으로 슈팅 자세를 확인하고, 전문가가 아닌 이상 축구 슈팅자세의 적합성을 판단하는 것은 노하우가 존재하지 않은 전문가가 아닌 이상 바른 교정을 하기엔 많은 시간이 필요하다. 따라서 아마추어들이 많은 어려움을 겪는다는 문제를 해결하기 위해 축구 선수 출신의 코치에게 조언을 구하여, 슈팅 시 디딤발의 위치, 허벅지 각도 등 여러가지 조건을 정확히 맞추어야 한다는 것을 알아, 이에 대한 엄격한 기준을 선정하여 축구 자세를 교정해줄 수 있는 딥러닝 서비스를 제작하게 되었다. 사용자들이 휴대폰만 있으면 자신의 슈팅 사진을 입력하여, 그것을 분석하여 얼마나 정확하게 슈팅 했는지 판별하고, 피드백을 제공하는 ‘축구 자세 교정 AI를 이용한 미래의 손흥민 만들기 프로젝트 : 슈팅왕통키’를 진행했다.
 
-![4](![스크린샷 2023-06-25 오후 2 02 42](https://github.com/dablro12/shooting-tracker-feedback-AI/assets/54443308/d37191e5-da7c-41aa-80ba-39762b6ca3d3)
-)
+![4]![스크린샷 2023-06-25 오후 2 02 42](https://github.com/dablro12/shooting-tracker-feedback-AI/assets/54443308/d37191e5-da7c-41aa-80ba-39762b6ca3d3)
+
 서비스 흐름도
 
 ### 1. function list
