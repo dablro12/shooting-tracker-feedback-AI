@@ -80,7 +80,7 @@
 >
 
 ## Files
-`data` Data file with model(densenet), data, plot, csv 
+`practice_data` Data file with model(densenet), data, plot, csv 
 
 `main.py` Main code python file
 
